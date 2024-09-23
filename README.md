@@ -9,7 +9,7 @@
   <p align="center">I'm pursuing my Bachelor of Technology in EEE from AIUB and Masters of science in IIT from JahangirNagar University &#129471;. I'm passionate about areas of Cloud And System Operatioons. I like deep learning and reinforcement learning &#129464;. You can also find me interested in DevOps;&#128640; and how we can use deep learning to automate the technology. I've started exploring the field of DevOps as well ✨ and hope to contribute to that field as well.                     
 </p>                   
                       
-<p align="center">When I'm not Working, you can find me watching Netflix, Sports or listening to music. Playing football &#9917; ,Cricket &#x1F3CB; ,Badminton &#x1F3F8; was also on that list. Memes are something that are appreciated very much 😂. </p> 
+<p align="center">When I'm not Working, you can find me watching Netflix, Sports or listening to music. Playing football &#9917; ,Cricket 🏏 ,Badminton &#x1F3F8; was also on that list. Memes are something that are appreciated very much 😂. </p> 
   <br>                                                                                                                                                                
  
 <p align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>                                                                                                                            
