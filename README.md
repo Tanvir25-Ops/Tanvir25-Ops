@@ -4,8 +4,7 @@
                       
   <h2 align="center"> My name is Tanvir Chowdhury. 👋🤓</h2>        
   
-  <br> <p align="center"> I'm a Cloud and System Administrator &#128187; </p>
- <br>         
+  <p align="center"> I'm a Cloud and System Administrator &#128187;</p>         
   
   <p align="center">I'm pursuing my Bachelor of Technology in EEE from AIUB and Masters of science in IIT from JahangirNagar University &#129471;. I'm passionate about areas of Cloud And System Operatioons. I like deep learning and reinforcement learning &#129464;. You can also find me interested in DevOps;&#128640; and how we can use deep learning to automate the technology. I've started exploring the field of DevOps as well ✨ and hope to contribute to that field as well.                     
 </p>                   
