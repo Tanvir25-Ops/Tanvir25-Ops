@@ -6,7 +6,7 @@ body {
     /* Sets a clean, modern font for the body text */
     color: white;
     /* Sets the text color to white for better contrast */
-    margin: 550px 150px 150px 150px;
+    margin: 350px 150px 150px 150px;
     /* Removes default margin */
     padding: 5px 5px 5px 5px;
     /* Removes default padding */
@@ -16,7 +16,7 @@ body {
     /* Centers content horizontally */
     align-items: center;
     /* Centers content vertically */
-    height: 200vh;
+    height: 100vh;
     /* Makes the body take the full height of the viewport */
 }
 
