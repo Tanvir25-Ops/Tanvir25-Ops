@@ -16,12 +16,12 @@ body {
     /* Centers content horizontally */
     align-items: center;
     /* Centers content vertically */
-    height: 400vh;
+    height: 100vh;
     /* Makes the body take the full height of the viewport */
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 2em;
     /* Sets the size of the header text */
     text-align: center;
     /* Centers the header text */
