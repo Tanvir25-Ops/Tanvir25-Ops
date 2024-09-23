@@ -6,7 +6,7 @@ body {
     /* Sets a clean, modern font for the body text */
     color: white;
     /* Sets the text color to white for better contrast */
-    margin: 0;
+    margin: 20px 10px 20px 10px;
     /* Removes default margin */
     padding: 0;
     /* Removes default padding */
